@@ -3,6 +3,8 @@
 * it would be sick to try but hill no im not writing 
 * each pin manually [YouTube](https://www.youtube.com/watch?v=B_KyzXhP9XE).
 ## How to use 
+* extract file 
+* put both .exe file and numbers.txt in the same folder
 * open .exe 
 * press right arrow key till you get the right one.
 * Good Luck
