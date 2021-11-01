@@ -4,7 +4,7 @@
 * each pin manually [YouTube](https://www.youtube.com/watch?v=B_KyzXhP9XE).
 ## How to use 
 * extract file 
-* put both .exe file and numbers.txt in the same folder
+* put both rust pin spammer.exe file and numbers.txt in the same folder
 * open .exe 
 * press right arrow key till you get the right one.
 * Good Luck
