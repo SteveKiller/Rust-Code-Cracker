@@ -5,7 +5,7 @@
 ## How to use 
 * extract file 
 * put both rust pin spammer.exe file and numbers.txt in the same folder
-* open .exe 
+* open rust pin spammer.exe 
 * press right arrow key till you get the right one.
 * Good Luck
 ### Add me on discord if you need help
