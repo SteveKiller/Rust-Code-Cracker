@@ -9,4 +9,4 @@
 * press right arrow key till you get the right one.
 * Good Luck
 ### Add me on discord if you need help
-* [stevekiller176#3548](https://discord.gg/nXEGwXmbDb)
+* stevekiller176#3548
